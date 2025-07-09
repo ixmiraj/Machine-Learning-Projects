@@ -9,7 +9,7 @@ This is a supervised classification task to predict whether a passenger survived
 
 ## 💻 Technologies Used
 - R Programming Language
-- Libraries: `rpart`, `randomForest`, `rattle`, `party`, `ggplot2`
+- Libraries: `rpart`, `randomForest`, `rattle`, `party`,
 
 ## ▶️ How to Run
 1. Open `titanic_analysis.R` in RStudio.
@@ -26,3 +26,4 @@ This is a supervised classification task to predict whether a passenger survived
 ## 📝 License
 This project is for educational and personal learning use only.
 
+Project Link: https://www.kaggle.com/c/titanic
